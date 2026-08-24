@@ -1,4 +1,8 @@
-<img src="./plugins/feed-tldr/assets/feedTLDR_wordmark.svg" width="320" alt="FeedTLDR">
+<p align="center">
+  <img src="./plugins/feed-tldr/assets/feedTLDR_wordmark.svg" width="240" alt="FeedTLDR">
+</p>
+
+<br><br>
 
 # FeedTLDR for AI agents
 
