@@ -31,7 +31,7 @@ Start a new Claude Code session. The first time a skill needs FeedTLDR, open `/m
 ## Install in Claude web, Desktop, or Cowork
 
 1. Open the latest [GitHub release](https://github.com/PabloWiedemann/feed-tldr-plugin/releases/latest).
-2. Download `feed-tldr-plugin-v0.2.0.zip`.
+2. Download `feed-tldr-plugin-v0.2.1.zip`.
 3. In Claude, open **Customize**, then **Plugins**.
 4. Choose the option to upload a custom plugin and select the ZIP file.
 5. Start a new chat, type `/`, and choose a `feed-tldr:` skill.
@@ -88,6 +88,6 @@ The distributable plugin is in [`plugins/feed-tldr`](./plugins/feed-tldr).
 Validate it with:
 
 ```bash
-claude plugin validate .
-python3 /path/to/plugin-creator/scripts/validate_plugin.py plugins/feed-tldr
+claude plugin validate --strict plugins/feed-tldr
+uv run --with pyyaml python /path/to/plugin-creator/scripts/validate_plugin.py plugins/feed-tldr
 ```

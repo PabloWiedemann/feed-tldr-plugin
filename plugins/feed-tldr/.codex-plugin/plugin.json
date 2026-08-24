@@ -1,6 +1,6 @@
 {
   "name": "feed-tldr",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Create briefs, research topics, and understand how your FeedTLDR summary was made.",
   "author": {
     "name": "FeedTLDR"
@@ -17,8 +17,8 @@
   "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "FeedTLDR",
-    "shortDescription": "Brief, investigate, and understand your feed",
-    "longDescription": "Create concise daily briefs, investigate topics across followed accounts, and understand the sources and limits behind your FeedTLDR summary.",
+    "shortDescription": "Make sense of your social media feed",
+    "longDescription": "Turn posts from the X accounts you follow into concise briefs, topic research with source links, and clear explanations of how each FeedTLDR summary was made.",
     "developerName": "FeedTLDR",
     "category": "Productivity",
     "capabilities": [
@@ -27,6 +27,10 @@
     "websiteURL": "https://feedtldr.com",
     "privacyPolicyURL": "https://feedtldr.com/privacy",
     "termsOfServiceURL": "https://feedtldr.com/terms",
+    "brandColor": "#F7F5EF",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png",
+    "logoDark": "./assets/logo.png",
     "defaultPrompt": [
       "Create a concise brief from my latest FeedTLDR summary.",
       "Investigate a topic across my recent FeedTLDR posts.",

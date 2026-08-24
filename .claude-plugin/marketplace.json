@@ -8,8 +8,8 @@
     {
       "name": "feed-tldr",
       "source": "./plugins/feed-tldr",
-      "description": "Create briefs, research topics, and understand how your FeedTLDR summary was made.",
-      "version": "0.2.0",
+      "description": "Make sense of your social media feed with clear briefs, source-linked research, and summary insights.",
+      "version": "0.2.1",
       "author": {
         "name": "FeedTLDR"
       },
