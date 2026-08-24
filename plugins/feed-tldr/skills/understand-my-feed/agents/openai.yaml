@@ -1,0 +1,4 @@
+interface:
+  display_name: "feed-tldr:understand-my-feed"
+  short_description: "Explain how your FeedTLDR summary was made"
+  default_prompt: "Use $understand-my-feed to explain the data, settings, account representation, and limits behind my latest FeedTLDR summary."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "feed-tldr:daily-brief"
+  short_description: "Create a concise brief from your FeedTLDR feed"
+  default_prompt: "Use $daily-brief to create a concise brief from my latest FeedTLDR summary."

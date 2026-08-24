@@ -1,0 +1,4 @@
+interface:
+  display_name: "feed-tldr:deep-dive"
+  short_description: "Investigate a topic across your FeedTLDR posts"
+  default_prompt: "Use $deep-dive to investigate a topic across my recent FeedTLDR posts."

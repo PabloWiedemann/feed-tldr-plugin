@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "feed-tldr": {
+      "type": "http",
+      "url": "https://api.feedtldr.com/mcp",
+      "oauth": {
+        "scopes": "feed:read"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "feed-tldr",
+  "description": "Read-only FeedTLDR skills and connector for briefs, research, and summary transparency.",
+  "owner": {
+    "name": "FeedTLDR"
+  },
+  "plugins": [
+    {
+      "name": "feed-tldr",
+      "source": "./plugins/feed-tldr",
+      "description": "Create briefs, research topics, and understand how your FeedTLDR summary was made.",
+      "version": "0.2.0",
+      "author": {
+        "name": "FeedTLDR"
+      },
+      "homepage": "https://feedtldr.com",
+      "repository": "https://github.com/PabloWiedemann/feed-tldr-plugin",
+      "category": "productivity",
+      "tags": [
+        "feed",
+        "briefing",
+        "research",
+        "x"
+      ]
+    }
+  ]
+}
