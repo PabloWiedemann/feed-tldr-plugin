@@ -1,26 +1,14 @@
-<p align="center">
-  <img src="./plugins/feed-tldr/assets/logo.png" width="112" alt="FeedTLDR logo">
-</p>
+<img src="./plugins/feed-tldr/assets/feedTLDR_wordmark.svg" width="320" alt="FeedTLDR">
 
-<h1 align="center">FeedTLDR for AI agents</h1>
+# FeedTLDR for AI agents
 
-<p align="center"><strong>Keep up with your social media feed without opening it.</strong></p>
+**Keep up with your social media feed without opening it.**
 
-<p align="center">
-  Turn the posts from accounts you follow into clear summaries. Explore any topic and see how each summary was made.
-</p>
+Turn the posts from accounts you follow into clear summaries. Explore any topic and see how each summary was made.
 
-<p align="center">
-  <a href="https://feedtldr.com">Website</a> ·
-  <a href="https://feedtldr.com/privacy">Privacy</a> ·
-  <a href="mailto:support@feedtldr.com">Support</a>
-</p>
+[Website](https://feedtldr.com) · [Privacy](https://feedtldr.com/privacy) · [Support](mailto:support@feedtldr.com)
 
-<p align="center">
-  <a href="https://www.skills.sh/pablowiedemann/feed-tldr-plugin">
-    <img src="https://www.skills.sh/b/pablowiedemann/feed-tldr-plugin" alt="Install count on skills.sh">
-  </a>
-</p>
+[![Skills on skills.sh](https://skills.sh/b/pablowiedemann/feed-tldr-plugin)](https://skills.sh/pablowiedemann/feed-tldr-plugin)
 
 FeedTLDR turns posts from the accounts you follow on X into a personal newsletter and clear summaries. These skills help your AI agent:
 
